@@ -1,6 +1,8 @@
 #! /bin/bash
 
 
-echo "What is your name?"
+#clear
+path=/home/master/bash_scripts
+date >> $path/demo.txt
 
 
